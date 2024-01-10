@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tntech-ngin.github.io/F24-CSC4780/sitemap.xml
+Sitemap: https://tntech-ngin.github.io/F23-CSC4200/sitemap.xml
