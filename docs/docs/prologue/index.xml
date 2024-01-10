@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prologue on</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/</link><description>Recent content in Prologue on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/index.xml" rel="self" type="application/rss+xml"/><item><title>Schedule</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/schedule/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/schedule/</guid><description>This is a tentative schedule and will change.
 Grading details #
-Assessment Type Weightage Additional Information In-class Quizzes 20% Exams (3 exams) 35% Programming Assignments 35% One late submission allowed. 50% deducted for other late submissions. Class Participation 10% Class Schedule #
-Aug 19 -
-Introduction, Social Contract, Expectations - Link to Mural Slides Books - Peterson &amp;amp; Davie, Computer Networks - a systems approach. Labs - Every Thursday, in class Week of Aug 20 - Aug 26 #
-Reading assignment for week 1 - Introduction, Chapter 1.</description></item><item><title>Lab 1: Setting Up and Testing Virtual Machines on Google Cloud</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab1/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab1/</guid><description>Note: The following guide provides step-by-step instructions for creating and configuring virtual machines (VMs) on the Google Cloud Platform (GCP). Subsequently, the guide outlines the process of establishing network connectivity between these VMs using the &amp;ldquo;ping&amp;rdquo; command. This exercise aims to provide students with a practical understanding of cloud-based virtualization, network configuration, and basic connectivity testing. This lab is ungraded.
+Assessment Type Weightage Additional Information In-class Quizzes 20% Exams (3 exams) 50% Programming Assignments 20% One late submission allowed. 50% deducted for other late submissions. Class Participation 10% Class Schedule #
+Jan 11, 2024 #
+Introduction - Overview of course Jan 16, 2024 #
+Reading assignment: The Growth of Cryptography Basic principles of security Slides The Growth of Cryptography - Historical perspective, modern developments Slides Jan 18, 2024 #
+Reading assignment: Cryptographic Foundations Modular Arithmetic and One-Time Pad (OTP) Basics - Encryption fundamentals Slides Jan 23, 2024 #
+Reading assignment: Hash Functions OTP and Hash Functions- Introduction to hash functions Slides Feb 1, 2024 #
+Reading assignment: Symmetric Encryption Encryption (DES) Slides Feb 6, 2024 #
+Reading assignment: Asymetric Encryption Encryption (AES) Slides Feb 8, 2024 #
+Reading assignment: Symmetric Encryption and Authentication Symmetric Encryption and Authentication Slides Feb 13, 2024 #
+Reading assignment: Block Ciphers and AES Block Ciphers and AES - In-depth analysis of block ciphers Slides Feb 15, 2024 #
+Reading assignment: PKI Public Key Cryptography Slides Feb 20, 2024 #
+Reading assignment: Digital Signatures Digital Signatures - The role and implementation of digital signatures Slides Feb 22, 2024 #
+Reading assignment - Homomorphic Encryption Homomorphic Encryption Feb 27, 2024 #
+Exam Review Feb 29, 2024 #
+Midterm Mar 5, 2024 #
+Reading assignment: Securing data at rest Signal Protocol Slides Mar 7, 2024 #
+Reading assignment: Securing data in motion TLS/SSL Slides Mar 19, 2024 #
+Reading assignment: TLS/SSL TLS attacks and Vulnerabilities Mar 21, 2024 #
+Exam review Mar 26, 2024 #
+Exam 2 Mar 28, 2024 #
+No Class Apr 2, 2024 #
+Reading assignment: Securing Data-in-Use Securing Data-in-Use Slides Apr 4, 2024 #
+Reading assignment: Malware Analysis Malware Analysis Slides Apr 9, 2024 #
+Reading assignment: Cyber Threat Intelligence Cyber Threat Intelligence Slides Apr 11, 2024 #
+Reading assignment: Zero Trust Security Zero Trust Security Slides Apr 16, 2024 #
+Reading assignment: Cyber-Physical Security Cyber-Physical Security Slides Apr 18, 2024 #
+Reading assignment: Quantum Security Quantum Security Slides Apr 23, 2024 #
+Reading assignment: Additional Topic 11 Additional Topic 11 Slides Apr 25, 2024 #
+Reading assignment: Additional Topic 12 Additional Topic 12 Slides Final #
+TBD</description></item><item><title>Lab 1: Setting Up and Testing Virtual Machines on Google Cloud</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab1/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab1/</guid><description>Note: The following guide provides step-by-step instructions for creating and configuring virtual machines (VMs) on the Google Cloud Platform (GCP). Subsequently, the guide outlines the process of establishing network connectivity between these VMs using the &amp;ldquo;ping&amp;rdquo; command. This exercise aims to provide students with a practical understanding of cloud-based virtualization, network configuration, and basic connectivity testing. This lab is ungraded.
 Lab Objectives #
 Creating two virtual machines on Google Cloud. Configuring network settings for the VMs.</description></item><item><title>Lab 2: Use basic networking tools</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab2/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab2/</guid><description>This lab counts towards your class participation grade
 Initial Setup #
