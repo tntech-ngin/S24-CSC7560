@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prologue on</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/</link><description>Recent content in Prologue on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/index.xml" rel="self" type="application/rss+xml"/><item><title>Schedule</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/schedule/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/schedule/</guid><description>This is a tentative schedule and will change.
+Grading details #
+Assessment Type Weightage Additional Information In-class Quizzes 20% Exams (3 exams) 35% Programming Assignments 35% One late submission allowed. 50% deducted for other late submissions. Class Participation 10% Class Schedule #
+Aug 19 -
+Introduction, Social Contract, Expectations - Link to Mural Slides Books - Peterson &amp;amp; Davie, Computer Networks - a systems approach. Labs - Every Thursday, in class Week of Aug 20 - Aug 26 #
+Reading assignment for week 1 - Introduction, Chapter 1.</description></item><item><title>Lab 1: Setting Up and Testing Virtual Machines on Google Cloud</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab1/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab1/</guid><description>Note: The following guide provides step-by-step instructions for creating and configuring virtual machines (VMs) on the Google Cloud Platform (GCP). Subsequently, the guide outlines the process of establishing network connectivity between these VMs using the &amp;ldquo;ping&amp;rdquo; command. This exercise aims to provide students with a practical understanding of cloud-based virtualization, network configuration, and basic connectivity testing. This lab is ungraded.
+Lab Objectives #
+Creating two virtual machines on Google Cloud. Configuring network settings for the VMs.</description></item><item><title>Lab 2: Use basic networking tools</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab2/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab2/</guid><description>This lab counts towards your class participation grade
+Initial Setup #
+We will utilize the VMs we created in LAB 1. Open a terminal (can be in your browser or on your laptop) and log into the VMs. Turn in the following (you may use Google and/or collaborate with other students) #
+Please submit one PDF with your work. You might find the “man” command to be very useful.
+SSH into two instances and perform the following tests:</description></item><item><title>Lab 3: Introduction to Socket Programming</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab3/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/lab3/</guid><description>This lab is ungraded but counts towards your participation grade
+Initial Setup #
+We will utilize the VMs we created in LAB 1. Log into two VMs. Follow along with the instructor. At the end of the lab, you will be able to create a simple client and server.</description></item><item><title>5200 - Streaming Client Server with ABE</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/5200-additional-assignment/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/5200-additional-assignment/</guid><description>Streaming Client-Server with Attribute-Based Encryption (ABE) Assignment #
+Objective #
+The primary objective of this assignment is to build a streaming client-server application that employs Attribute-Based Encryption (ABE) for securing key frames. Students are required to implement the client and server, stream media between them, identify key frames to be encrypted, and perform encryption and decryption using ABE. Additionally, the quality of experience (QoE) must be quantified through metrics such as jitter and delay.</description></item><item><title>Program 1</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa1/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa1/</guid><description>This is an INDIVIDUAL Assignment (Do not collaborate) Due - Sept 14, Thursday, 11:59PM
+Instructions #
+Create two separate Python files for the server and client, named server.py and client.py, respectively.
+Copy and paste the provided skeleton code into the respective files.
+Complete the server code by implementing the missing function calls where indicated by comments. The server should be able to accept connections, receive long messages from clients, process them, and echo back the same message.</description></item><item><title>Program 2: Network Packet Handling</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa2-f23/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa2-f23/</guid><description>This is an INDIVIDUAL Assignment (Do not collaborate) #
+Due - Sept 30, Saturday, 11:59PM
+Instructions #
+Please read the entire instructions and the skeleton code provided for the server and the client before you start coding.
+Setup #
+Create two separate Python files for the server and client, named server.py and client.py, respectively. Copy and paste the provided skeleton code into the respective files. Implementation #
+Server: Complete the server code by implementing the unpack_packet function.</description></item><item><title>Program 3 - Simple Protocol</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa3-f23/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa3-f23/</guid><description>This is a GROUP Assignment
+Due Oct 21, Submit your work on iLearn.
+Objectives
+Learn to create network packets.
+Learn how packets can be sent over the network.
+Familiarize you with the concept of sockets.
+Learn packing structures, endianness, unpacking, and interpreting network data.
+Learn how to use actual data from a packet.
+Use packet capture to visually inspect protocols.
+Overview
+In this warmup project, you are going to implement a client and a server program that will send a command over the network.</description></item><item><title>Program 4 - Detect a Person</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa4/</guid><description>Due Date - Nov 20, 2023 #
+Objectives
+The objective of this assignment is to design and implement a client-server system using Raspberry Pi devices. The server will control an LED, while the client will sense motion using a Passive Infrared Sensor (PIR) and communicate with the server to blink the LED. The assignment includes establishing a three-way handshake, sending blink duration and count information, acknowledging the data, and responding to motion detection by blinking the LED.</description></item></channel></rss>
